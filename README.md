@@ -31,5 +31,5 @@ end
 * line 58 - 74:  Creating the bottom caption and merging it into the image
 * line 76 - 85:  Resizing the image if necessary
 
-Email me at dwang@udfi.biz for questions/comments!  Fork and post a merge request for bug fixes!
+Email me at dwang@udfi.biz for questions/comments!  Fork and send a pull request for fixes!
 
