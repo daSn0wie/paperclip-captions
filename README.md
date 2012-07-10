@@ -26,10 +26,10 @@ end
 
 
 ### Explanation
-line 21 - 25:  Pulling the instance values from the object (in the example case "Foo"
-line 42 - 56:  Creating the top caption and merging it into the image
-line 58 - 74:  Creating the bottom caption and merging it into the image
-line 76 - 85:  Resizing the image if necessary
+* line 21 - 25:  Pulling the instance values from the object (in the example case "Foo"
+* line 42 - 56:  Creating the top caption and merging it into the image
+* line 58 - 74:  Creating the bottom caption and merging it into the image
+* line 76 - 85:  Resizing the image if necessary
 
 Email me at dwang@udfi.biz for questions/comments!  Fork and post a merge request for bug fixes!
 
